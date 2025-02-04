@@ -16,7 +16,7 @@ With cutting-edge algorithms, it **understands context, generates structured con
 
 ---
 
-## 🌟 **Why Choose Chinese AI?**  
+## 🌟 **Key Features**  
 
 - **Fast & Reliable** – Get real-time answers to any query.  
 - **Smart Writing Assistance** – Improve clarity, structure, and tone effortlessly.  
