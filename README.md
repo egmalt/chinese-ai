@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon-128.png" alt="Chinese AI Icon" width="128">
+  <img src="assets/logo-128.png" alt="Chinese AI Icon" width="128">
 </p>
 
 <h1 align="center">Chinese AI </h1>
